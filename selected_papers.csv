@@ -1,0 +1,93 @@
+,,,Evaluation Methodologies,User Study,,,,,Real Life Testing,,Subject of Evaluation,Performance,UserCentric Effects,Effects on Learning
+Title,Authors,Year,Values,Questionnaire,Expert´s Opinion,Interview,Observation,Tests,No. of Tests Days,No. of Participants,Values,Values,Values,Values
+Large-scale e-learning recommender system based on Spark and Hadoop,"Dahdouh K., Dakkak A., Oughdir L., Ibriz A.",2019,1,,,,,,,,2,"1, 2",,
+Elo-rating method: Towards adaptive assessment in e-learning,"Mangaroska K., Vesin B., Giannakos M.",2019,3,,,,,,180,67,1,1,,
+"Recommender system for learning objects based in the fusion of social signals, interests, and preferences of learner users in ubiquitous e-learning systems","da S. Dias A., Wives L.K.",2019,"2, 3",Não,Não,Não,Sim,Sim,10,40,"1, 2",1,,
+A Novel Algorithm for Course Learning Object Recommendation Based on Student Learning Styles,"Nafea S.M., Siewe F., He Y.",2019,3,,,,,,720,30,1,1,1,
+Towards Personalized Learning Through Class Contextual Factors-Based Exercise Recommendation,"Huo Y., Xiao J., Ni L.M.",2019,1,,,,,,,,1,1,,
+Neural Educational Recommendation Engine (NERE),"Nadeem M., Stansbury D., Mooney S.",2019,1,,,,,,,,1,1,,
+IoT-based personalized NIE content recommendation system,"Kim Y., Jung S., Ji S., Hwang E., Rho S.",2019,1,,,,,,,,1,1,,
+Elective learning objects group recommendation using non-cooperative game theory,"Zia A., Usman M.",2019,1,,,,,,,,1,1,,
+Towards Smart Educational Recommendations with Reinforcement Learning in Classroom,"Liu S., Chen Y., Huang H., Xiao L., Hei X.",2019,2,Não,Não,Não,Sim,Não,,,1,1,,"1, 2"
+An efficient personalized trust based hybrid recommendation (TBHR) strategy for e-learning system in cloud computing,"Bhaskaran S., Santhi B.",2019,1,,,,,,,,1,"1, 2",,
+Integrating context-awareness and multi-criteria decision making in educational learning,"Zheng Y., Shekhar S., Jose A.A., Rai S.K.",2019,1,,,,,,,,1,1,,
+Finding relevant e-learning materials,Mbipom B.,2019,3,,,,,,60,44,1,1,,
+Learner level and preference prediction of e-learners for e-learning recommender systems,"Deenadayalan D., Kangaiammal A., Poornima B.K.",2019,1,,,,,,,,2,1,,
+SARLR: Self-adaptive recommendation of learning resources,"Liu L., Wu W., Huang J.",2019,1,,,,,,,,1,1,,
+"Decision Making for E-learners based on Learning Style, Personality, and Knowledge Level","Goyal M., Yadav D., Sood M.",2018,2,Sim,Não,Não,Não,Não,,,1,1,,
+BROAD-RSI – educational recommender system using social networks interactions and linked data,"Pereira C.K., Campos F., Ströele V., David J.M.N., Braga R.",2018,2,Sim,Não,Sim,Não,"1, 2, 3",,,2,1,1,
+Research on personalized recommendation of distance education resources based on spark,"Qiao Z., Guo J., Zhao J.",2018,1,,,,,,,,1,"1, 2",,
+An e-learning recommendation approach based on the self-organization of learning resource,"Wan S., Niu Z.",2018,"1, 2",Não,Não,Não,Sim,A/B,,,1,"1, 2",,1
+A Framework for Improving Recommendation in Adaptive Metacognitive Scaffolding,"Hidayah I., Adji T.B., Setiawan N.A.",2018,2,Sim,Não,Não,Não,A/B,,,1,"1, 2", ,
+Understanding learning resources metadata for primary and secondary education,"Peralta M., Alarcon R., Pichara K., Mery T., Cano F., Bozo J.",2018,1,,,,,,,,1,"1, 2",,
+A Group-Oriented Recommendation Algorithm Based on Similarities of Personal Learning Generative Networks,"Zhu H., Ni Y., Tian F., Feng P., Chen Y., Zheng Q.",2018,1,,,,,,,,1,"1, 3",,
+Hybrid recommender system for learning material using content-based filtering and collaborative filtering with good learners' rating,"Turnip R., Nurjanah D., Kusumo D.S.",2018,2,Sim,Não,Não,Não,Sim,,,1,1,1,3
+Combination of hybrid filtering and learning style for learning material recommendation,"Trusthi S.L., Nurjanah D.",2018,2,Sim,Não,Não,Não,Não,,,1,1,,
+An affective and Web 3.0-based learning environment for a programming language,"Cabada R.Z., Estrada M.L.B., Hernández F.G., Bustillos R.O., Reyes-García C.A.",2018,2,Sim,Não,Não,Não,Sim,,,2,,1,1
+Enhancing e-learning systems with personalized recommendation based on collaborative tagging techniques,"Klašnja-Milićević A., Ivanović M., Vesin B., Budimac Z.",2018,3,,,,,,30,120,1,"1, 2",,
+Implementation and evaluation of a resource-based learning recommender based on learning style and web page features,"Tahmasebi M., Ghazvini F.F., Esmaeili M.",2018,3,,,,,,,77,1,,1,
+Utilizing knowledge graph and student testing behavior data for personalized exercise recommendation,"Lv P., Wang X., Xu J., Wang J.",2018,1,,,,,,,,1,1,,
+Rule-based reasoning for resource recommendation in personalized e-learning,Jetinai K.,2018,1,,,,,,,,1,1,,3
+Personalized learning full-path recommendation model based on LSTM neural networks,"Zhou Y., Huang C., Hu Q., Zhu J., Tang Y.",2018,1,,,,,,,,1,1,,
+A hybrid recommender system for e-learning based on context awareness and sequential pattern mining,"Tarus J.K., Niu Z., Kalui D.",2018,3,,,,,,168,1200,"1, 2",1,1,
+Recommending remedial learning materials to students by filling their knowledge gaps,"Bauman K., Tuzhilin A.",2018,3,Não,Não,Não,Não,Não,189,1512,1,1,,1
+Recommendation for MOOC with learner neighbors and learning series,"Pang Y., Liao C., Tan W., Wu Y., Zhou C.",2018,1,,,,,,,,1,"1, 3",1,
+User Control and Serendipitous Recommendations in Learning Environments,Afridi A.H.,2018,2,Sim,Não,Não,Não,Não,,,1,"1, 3","1, 2, 3",
+An e-learning recommender that helps learners find the right materials,"Mbipo B., Massie S., Craw S.",2018,"2, 3",Sim,Não,Não,Não,Não,60,22,1,1,,
+Proposal of a recommendation system for complex topic learning based on a sustainable design approach,"Meza X.V., Yamanaka T.",2018,1,,,,,,,,1,1,,
+Improving children's experience on a mobile EdTech platform through a recommender system,"Ruiz-Iniesta A., Melgar L., Baldominos A., Quintana D.",2018,3,,,,,,180,4712,2,1,,2
+Recommendation System for Learning Management System,"Mehta P., Saroha K.",2018,1,,,,,,,,2,,,
+Personalized exercise recommendation algorithm combining learning objective and assignment feedback,"Xia J., Li G., Cao Z.",2018,3,,,,,,120,753,2,1,2,1
+A prescriptive specialized learning management system for academic feedback towards improved learning,"van der Merwe A., du Toit T., Kruger H.",2018,"2, 3",Sim,Não,Sim,Não,Não,180,129,2,1,1,"1, 2, 3"
+Using information technology for personalizing the computer science teaching,"Prisco A., Dos Santos R., Botelho S., Tonin N., Bez J.",2017,1,,,,,,,,2,1,2,"1, 2, 3, 4"
+Automated Learning Content Generation from Knowledge Bases in the STUDYBATTLES Environment,"Shehadeh A., Felfernig A., Stettinger M., Jeran M., Reiterer S.",2017,"2, 3",Sim,Não,Não,Não,Não,120,377,2,1,"1, 4","2, 4"
+Toward integrating social networks into intelligent tutoring systems,"Thanh-Nhan H.-L., Huy-Thap L., Thai-Nghe N.",2017,3,,,,,,,12536,2,1,4,3
+Recommendation of Instructional Video Clips for HTML Learners Based on the ID3 Algorithm,"Hsu T.-C., Zhou K.-Z.",2017,2,Não,Não,Não,Não,3,,,1,2,2,1
+Experiences in using educational recommender system ELARS to support e-learning,Dlab M.H.,2017,3,,,,,,1095,47,2,,"1, 2","1, 2"
+RUTICO: Recommending Successful Learning Paths under Time Constraints,"Nabizadeh A.H., Jorge A.M., Leal J.P.",2017,1,,,,,,,,1,1,,1
+Improvement of E-learning quality by means of a recommendation system,"Gunawan F.E., Maryanto A., Udjaja Y., Candra S., Soewito B.",2017,2,Não,Não,Não,Não,"1, 2",,,1,1,,
+Personalized recommendation strategies in mobile educational systems,"Noor R., Khan F.A.",2017,"2, 3",Sim,Não,Não,Não,Não,,20,1,1,,
+A type-2 fuzzy logic recommendation system for adaptive teaching,"Almohammadi K., Hagras H., Yao B., Alzahrani A., Alghazzawi D., Aldabbagh G.",2017,3,,,,,,,36,2,1,1,2
+Reciprocal recommender system for learners in massive open online courses (MOOCs),"Prabhakar S., Spanakis G., Zaiane O.",2017,1,,,,,,,,1,1,,
+Riple: Recommendation in peer-learning environments based on knowledge gaps and interests,"Khosravi H., Cooper K., Kitto K.",2017,1,,,,,,,,2,1,,
+An educational recommender system based on argumentation theory,"Rodríguez P., Heras S., Palanca J., Poveda J.M., Duque N., Julián V.",2017,"1, 3",,,,,,,29,1,1,,
+Constructing a User-Friendly and Smart Ubiquitous Personalized Learning Environment by Using a Context-Aware Mechanism,Yao C.-B.,2017,3,Sim,Não,Não,Não,Não,180,102,2,1,1,1
+Intelligent system E-learning modeling according to learning styles and level of ability of students,"Budiyanto U., Hartati S., Azhari S.N., Mardapi D.",2017,2,Sim,Não,Não,Não,Não,,,2,1,1,4
+Educational data mining rule based recommender systems,"Mobasher G., Shawish A., Ibrahim O.",2017,3,,,,,,,200,1,1,2,"1, 2, 4"
+"Personalized, affect and performance-driven computer-based learning","Athanasiadis C., Hortal E., Koutsoukos D., Lens C.Z., Asteriadis S.",2017,"1, 2",Sim,Não,Não,Não,Não,,,1,1,2,"1, 2"
+A latent factor model for instructor content preference analysis,"Wang J.Z., Lan A.S., Grimaldi P.J., Baraniuk R.G.",2017,1,,,,,,,,1,1,4,4
+A recommender system for supporting students in programming online judges,"Yera R., Rodríguez R.M., Castro J., Martínez L.",2017,1,,,,,,,,1,1,4,
+Case-based recommendation for online judges using learning itineraries,"Sánchez-Ruiz A.A., Jimenez-Diaz G., Gómez-Martín P.P., Gómez-Martín M.A.",2017,1,,,,,,,,1,"1, 4",,4
+An ACO-based personalized learning technique in support of people with acquired brain injury,"Krynicki K., Jaen J., Navarro E.",2016,2,Não,Não,Não,Não,Não,,,1,1,1,1
+A learner oriented learning recommendation approach based on mixed concept mapping and immune algorithm,"Wan S., Niu Z.",2016,2,Sim,Não,Não,Não,Não,,,1,"1, 2",1,
+Increasing students' academic results in e-course using educational recommendation strategy,"Dlab M.H., Hoić-Božić N.",2016,2,Sim,Não,Não,Não,Não,,,2,1,1,
+A novel and integrated semantic recommendation system for e-learning using ontology,"Sharma M., Ahuja L.",2016,3,,,,,,,10,2,"1, 2",,
+Argumentation-based hybrid recommender system for recommending learning objects,"Rodríguez P., Heras S., Palanca J., Duque N., Julián V.",2016,2,Sim,Não,Não,Sim,Sim,,,2,"1, 2",1,3
+Recommendation system of educational resources for a student group,"Rodríguez P., Giraldo M., Tabares V., Duque N., Ovalle D.",2016,1,,,,,,,,2,1,1,
+Evaluation of requirements collection strategies for a constraint-based Recommender System in a social e-Learning platform,"Epifania F., Porrini R.",2016,2,Sim,Não,Não,Não,Não,,,2,"1, 3","1, 2, 3",
+Does a peer recommender foster students’ engagement in MOOCs?,"Labarthe H., Bouchet F., Bachelet R., Yacef K.",2016,3,,,,,,180,279,2,,,2
+Which algorithms suit which learning environments? A comparative study of recommender systems in TEL,"Kopeinik S., Kowald D., Lex E.",2016,1,,,,,,,,1,1,,
+Metadata for recommending primary and secondary level learning resources,"Bozo J., Alarcon R., Peralta M., Mery T., Cabezas V.",2016,"1, 2",Sim,Não,Não,Não,Não,,,1,1,,
+Learning Object Recommendations for Teachers Based on Elicited ICT Competence Profiles,"Sergis S., Sampson D.G.",2016,1,,,,,,,,2,1,,
+Good and similar learners' recommendation in adaptive learning systems,Nurjanah D.,2016,2,Não,Não,Não,Não,Sim,,,2,1,,
+Recsim: A model for learning objects recommendation using similarity of sessions,"Wiedmann T., Barbosa J.L.V., Rigo S.J., Nice Ferrari Barbosa D.",2016,1,,,,,,,,1,1,,
+A Fuzzy Tree Matching-Based Personalized E-Learning Recommender System,"Wu D., Lu J., Zhang G.",2015,1,,,,,,,,2,1,1,4
+Enhancing learning object recommendations for teachers using adaptive neighbor selection,"Sergis S., Sampson D.G.",2015,1,,,,,,,,1,1,,
+Towards Competence-Based Learning Design Driven Remote and Virtual Labs Recommendations for Science Teachers,"Zervas P., Sergis S., Sampson D.G., Fyskilis S.",2015,2,Sim,Não,Não,Não,Não,,,2,1,1,1
+Recommending learning objects based on utility and learning style,"Borges G., Stiubiener I.",2015,3,Não,,,,,35,28,2,,1,2
+Interaction-based collaborative recommendation: A personalized learning environment (PLE) perspective,"Ali S.M., Ghani I., Abd Latiff M.S.",2015,1,,,,,,,,1,1,,
+A comparative framework to evaluate recommender systems in technology enhanced learning: A case study,"Lombardi M., Marani A.",2015,2,Não,Sim,Não,Não,Não,,,1,1,,
+A student-centered hybrid recommender system to provide relevant learning objects from repositories,"Rodríguez P.A., Ovalle D.A., Duque N.D.",2015,2,Não,Não,Não,Não,Não,,,1,1,1,1
+A context-aware recommendation framework in e-learning environment,"Do P., Nguyen H., Nguyen V.T., Dung T.N.",2015,1,,,,,,,,1,1,,
+Improving social collaborations in virtual learning environments,"González D., Motz R., Tansini L.",2015,2,Não,Não,Não,Não,Não,,,1,1,,2
+Enhancing learner's activities through recommendations based on annotations,"Mazhoud O., Kalboussi A., Omheni N., Kacem A.H.",2015,"1, 2",Não,Não,Não,Sim,Sim,,,2,1,1,1
+Development and system assessment of learning object recommendation based on competency: RecOAComp,"Behar P.A., Da Silva K.K.A., Schneider D., Cazella S.C., Torrezzan C.A.W., Heis E.",2015,"2, 3",Sim,Não,Não,Não,Não,1640,150,2,,1,1
+Evaluation and selection of group recommendation strategies for collaborative searching of learning objects,"Zapata A., Menéndez V.H., Prieto M.E., Romero C.",2015,"1, 3",,,,,,14,75,"1, 2",1,1,
+Multi-agent system for knowledge-based recommendation of learning objects using metadata clustering,"Rodríguez P., Duque N., Ovalle D.A.",2015,"1, 2",Não,Sim,Não,Não,Não,,,1,1,1,
+Recommendation of learning resources based on social relations,"Tadlaoui M., Sehaba K., George S.",2015,"1, 3",,,,,,30,103,"1, 2",,1,1
+Study on and realization of hybrid recommendation-based adaptive learning system,"Zhao X., Cen L., Long S., Wang P.",2015,2,Não,Não,Não,Não,Não,,,2,1,1,1
+A dynamic recommender system as reinforcement for personalized education by a fuzzly linguistic web system,"Tejeda-Lorente A., Bernabé-Moreno J., Porcel C., Galindo-Moreno P., Herrera-Viedma E.",2015,3,,,,,,180,50,2,1,2,1
+Providing personalized services to users in a recommender system,"Oduwobi O., Ojokoh B.",2015,2,Não,Não,Não,Não,Não,,,2,1,,
+Fuzzy logic based modeling for building contextual student group recommendations,"Myszkorowski K., Zakrzewska D.",2015,2,Sim,Não,Não,Não,Não,,,1,1,,
+E-Learning recommender system for a group of learners based on the unified learner profile approach,"Dwivedi P., Bharadwaj K.K.",2015,"1, 2",Sim,Não,Não,Não,Não,,,1,1,,4
+Where to next? A comparison of recommendation strategies for navigating a learning object repository,"Sabourin J., Kosturko L., McQuiggan S.",2015,2,Não,Sim,Não,Não,Não,,,1,1,,
